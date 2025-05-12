@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+streamlit-lottie
+geopandas
+matplotlib
+streamlit_folium
